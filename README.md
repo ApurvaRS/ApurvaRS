@@ -1,6 +1,9 @@
 ## Hi there, I'm [Apurva Rajendra Suryawanshi](www.linkedin.com/in/apurva-suryawanshi)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
 <p align="center">
+      <a href="https://www.kaggle.com/apurvasr">
+        <img align="center" alt="Apurva kaggle profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/apurva-suryawanshi">
         <img align="center" alt="Apurva LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
